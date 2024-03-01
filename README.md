@@ -24,10 +24,10 @@ A passionate flutter developer from India
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on [Firebase & API Services]  
+- 🔭 I’m currently working on my skill 
   
 
-- 🌱 I’m currently learning Flutter  
+- 🌱 I’m currently learning new technology 
   
 
 - ❓ Ask me about anything related to Flutter and related technologies  
